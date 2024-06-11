@@ -1,7 +1,13 @@
 # Nu Hai
 
+## Quest
+- Integrate with Metabase
 
-## Week 1 (11/6/2024 - 17/6/2024)
+## Milestones
+- Milestone 1
+- Milestone 2
+
+### Week 1 (11/6/2024 - 17/6/2024)
 #### New moves learnt
 - Writing tests using mocha
 - Setting up Avni on Linux
