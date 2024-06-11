@@ -4,7 +4,7 @@ This is the diary of four pandas that are on a quest.
 
 ### Heroes
 The heroes of this diary are
-- Nu Hai
+- [Nu Hai](/nu_hai.md/)
 - Fan Tong
 - Bao
 - Jing
