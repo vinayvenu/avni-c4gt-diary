@@ -1,7 +1,7 @@
 # Nu Hai
 
 
-## Day 0 (12/6/2024)
+## Week 1 (11/6/2024 - 17/6/2024)
 #### New moves learnt
 - Writing tests using mocha
 - Setting up Avni on Linux
