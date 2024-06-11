@@ -7,6 +7,8 @@
 - Milestone 1
 - Milestone 2
 
+## Progress
+
 ### Week 1 (11/6/2024 - 17/6/2024)
 #### New moves learnt
 - Writing tests using mocha
