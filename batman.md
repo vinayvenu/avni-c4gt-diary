@@ -13,7 +13,7 @@
 
 ### Week 1 (11/6/2024 - 17/6/2024)
 
-A working API for Metabase has was built in the week before this.
+A working API for Metabase was built in the week before this.<br>
 But the code did not follow good coding practises.
 For example the famous DRY principle was being violated.
 So this week was basically about refactoring the code so that it adheres to the benchmarks of a good code base!
