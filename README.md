@@ -10,7 +10,7 @@ The heroes of this diary are
 - [Spiderman](spiderman.md)
 
 
-Over the next few months, these heroes will learn the moves, overcome challenges and master their chi that will help them attain nirvana in the years to come where they have to lead as masters. 
+Over the next few months, these heroes will learn the moves, overcome challenges and master their Aura that will help them attain their ultimate form in the years to come where they have to lead as masters. 
 
 Every week, the heroes will record
 - New moves learnt
