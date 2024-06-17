@@ -14,8 +14,8 @@
 ### Week 1 (11/6/2024 - 17/6/2024)
 
 A working API for Metabase was built in the week before this.<br>
-But the code did not follow good coding practises.
-For example the famous DRY principle was being violated.
+But the code did not follow good coding practises.<br>
+For example the famous DRY principle was being violated.<br>
 So this week was basically about refactoring the code so that it adheres to the benchmarks of a good code base!
 
 #### New moves learnt
@@ -24,5 +24,5 @@ So this week was basically about refactoring the code so that it adheres to the 
 - Primitive Obsession
 
 #### Challenges, victories and defeats
-- A pull request [raised](https://github.com/avniproject/avni-server/pull/734/commits/6f304c46fcabc12a38338c85bd1912f5eca3981b)
+- Commit [link](https://github.com/avniproject/avni-server/pull/734/commits/6f304c46fcabc12a38338c85bd1912f5eca3981b)
 
