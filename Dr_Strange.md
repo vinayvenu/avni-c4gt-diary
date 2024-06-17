@@ -13,7 +13,7 @@
 
 ### Week 1 (11/6/2024 - 17/6/2024)
 #### New Skills Acquired
-- In-depth exploration of the AvniWebApp and AvniServer codebases.
+-  exploration of the AvniWebApp codebases.
 - Code optimization techniques and code quality improvements.
 - Gained a comprehensive understanding of the codebase.
 - Learning Spring Boot.
