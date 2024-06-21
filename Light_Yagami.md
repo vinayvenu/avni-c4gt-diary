@@ -22,4 +22,4 @@
 - Pr creation fail as I am creating in wrong way.
 
 #### Chi accumulation over time (0-100)
-**0**
+**0.4**
