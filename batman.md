@@ -28,3 +28,15 @@ So this week was basically about refactoring the code so that it adheres to the 
 - Commit [link](https://github.com/avniproject/avni-server/pull/734/commits/6f304c46fcabc12a38338c85bd1912f5eca3981b)
 - Still some code smell and primitive obsesion is left to be removed which will be removed in Week2!
 
+### Week 2 (18/6/2024 - 24/6/2024)
+
+
+#### New moves learnt
+- 
+- 
+
+
+#### Challenges, victories and defeats
+- Commit [link]()
+- 
+
