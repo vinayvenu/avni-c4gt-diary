@@ -1,4 +1,4 @@
-# Batman
+# Light Yagami
 
 ## Quest
 - Working on different product of Avni
@@ -20,6 +20,16 @@
 - Understanding card take time.
 - Face difficulty with such large code base.
 - Pr creation fail as I am creating in wrong way.
+
+### Week 2 (18/6/2024 - 24/6/2024)
+#### New moves learnt
+- Start exploring server code base
+- Understanding code base of server
+
+ #### Challenges, victories and defeats
+ - Facing difficulty in solving server card.
+ - As it require background knowledge.
+ - Solved card of webapp.
 
 #### Chi accumulation over time (0-100)
 **0.4**
