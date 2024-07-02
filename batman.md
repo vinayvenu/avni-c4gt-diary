@@ -57,6 +57,6 @@ Also a sample Dashboard was made by adding data for about 20 people in Avni (but
 #### Challenges, victories and defeats
 - Had to find out how XRays worked, no formal documentation was available!
 - Wasn't able to enroll people into programs in Avni!
-- PR [link]([https://github.com/avniproject/avni-server/pull/734/commits/c0a35e78b71e4f3f1e7e2e8c298eac4a691f2ee3?notification_referrer_id=NT_kwDOBufzr7UxMDg5Njc1MTI4MToxMTU4NjQ0OTU](https://github.com/avniproject/avni-server/pull/734))
+- PR [link](https://github.com/avniproject/avni-server/pull/734/commits/c0a35e78b71e4f3f1e7e2e8c298eac4a691f2ee3?notification_referrer_id=NT_kwDOBufzr7UxMDg5Njc1MTI4MToxMTU4NjQ0OTU](https://github.com/avniproject/avni-server/pull/734))
 
 
