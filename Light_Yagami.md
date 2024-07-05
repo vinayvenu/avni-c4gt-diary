@@ -31,5 +31,14 @@
  - As it require background knowledge.
  - Solved card of webapp.
 
+### Week 3 (25/06/2024 - 01/07/2024)
+#### New moves learnt
+- Get familiar with webapp code base
+- Get to know about various from of avni.
+
+ #### Challenges, victories and defeats
+ - Facing difficulty to reproduce error according to card.
+ - Server code base is difficult to understand.
+ - Solved card of webapp.
 #### Chi accumulation over time (0-100)
 **0.4**
