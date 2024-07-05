@@ -34,7 +34,7 @@
 ### Week 3 (25/06/2024 - 01/07/2024)
 #### New moves learnt
 - Get familiar with webapp code base
-- Get to know about various from of avni.
+- Get to know about various form of avni.
 
  #### Challenges, victories and defeats
  - Facing difficulty to reproduce error according to card.
