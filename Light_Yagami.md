@@ -40,5 +40,15 @@
  - Facing difficulty to reproduce error according to card.
  - Server code base is difficult to understand.
  - Solved card of webapp.
+   
+ ### Week 4 (01/07/2024 - 07/07/2024)
+ This week I am looking into phase 4 issue and started working on DMP project.
+ #### New moves learnt
+ - N.A
+
+ #### Challenges, victories and defeats
+ - Phase 4 card are difficult to understand.
+ - Take too much time for understanding.
+ - started working on json differnce of two zip.
 #### Chi accumulation over time (0-100)
 **0.4**
