@@ -51,7 +51,7 @@ Besides this , the week was basically about researching how XRays work , how vis
 Also a sample Dashboard was made by adding data for about 20 people in Avni (but couldnt enroll them into programs as the option wasnt showing up! )
 
 #### New moves learnt
-- XRays working 
+- Working of XRays 
 - Visualizations in Metabase
 
 #### Challenges, victories and defeats
@@ -59,7 +59,7 @@ Also a sample Dashboard was made by adding data for about 20 people in Avni (but
 - Wasn't able to enroll people into programs in Avni!
 - PR [link](https://github.com/avniproject/avni-server/pull/734/commits/c0a35e78b71e4f3f1e7e2e8c298eac4a691f2ee3?notification_referrer_id=NT_kwDOBufzr7UxMDg5Njc1MTI4MToxMTU4NjQ0OTU](https://github.com/avniproject/avni-server/pull/734))
 
-### Week 4 (01/07/2024 - 07/07/2024)
+### Week 4 (02/07/2024 - 08/07/2024)
 This week was about building sample dashboards manually via UI! 
 
 #### New moves learnt
@@ -68,6 +68,16 @@ This week was about building sample dashboards manually via UI!
 #### Challenges, victories and defeats
 - Created a dashboard and it was  reviewed,the stats which was not very useful/which would bloat up the screen was removed
 - The second dashboard is yet to be reviewed
+
+### Week 5 (09/07/2024 - 15/07/2024)
+This week was I figured out which tables in OpenCHS need to be used to proceed ahead in our goal! 
+
+#### New moves learnt
+- Learnt about schemas in Databases
+  
+#### Challenges, victories and defeats
+- Wasn't able to find the user schema tables in Avni DB
+- Had to setup Avni ETL on my machine , and run it in order to get those tables!
 
 
 
