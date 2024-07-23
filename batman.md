@@ -70,7 +70,7 @@ This week was about building sample dashboards manually via UI!
 - The second dashboard is yet to be reviewed
 
 ### Week 5 (09/07/2024 - 15/07/2024)
-This week was I figured out which tables in OpenCHS need to be used to proceed ahead in our goal! 
+This week I figured out which tables in OpenCHS need to be used to proceed ahead in our goal! 
 
 #### New moves learnt
 - Learnt about schemas in Databases
@@ -78,6 +78,18 @@ This week was I figured out which tables in OpenCHS need to be used to proceed a
 #### Challenges, victories and defeats
 - Wasn't able to find the user schema tables in Avni DB
 - Had to setup Avni ETL on my machine , and run it in order to get those tables!
+
+### Week 6 (16/07/2024 - 22/07/2024)
+This week I started creating the API to automate the creation of questions in Metabase!
+
+#### New moves learnt
+- Object Mapper class in Jackson
+  
+#### Challenges, victories and defeats
+- I wrote down the code to automate the questions but strangely it wasn't yielding correct response each and every time.
+- I figured out that the API response isn't the expected one each time
+- Couldnt complete the code, the perfect working code is yet to be written!
+
 
 
 
