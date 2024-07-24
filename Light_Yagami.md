@@ -50,5 +50,30 @@
  - Phase 4 card are difficult to understand.
  - Take too much time for understanding.
  - started working on json differnce of two zip.
+
+### Week 5 (09/07/2024 - 15/07/2024)
+This week work on avni project of implementer friendliness. Did migration of metadata across organisation. uploading of zip file and showing their difference to user.
+#### New moves learnt
+- Learn about how to send request through netwrok. how can we upload file through network.
+- code smell ,write production effecient code.
+- learn about resusability of code in real time project.
+  
+#### Challenges, victories and defeats
+- Sending request through network is initially difficult.
+- handling various edges cases like multiple user uploading at same time.
+- Ensuring security of network.
+
+### Week 6 (16/07/2024 - 23/07/2024)
+Structure the output of response which is shown to user through web. imporve code readbility, optimize code.
+
+#### New moves learnt
+- learn how to send request through postman.
+- how postman work for api/url.
+- write test file.
+
+#### Challenges, victories and defeats
+- structure of output is initially difficult as form name with it's directory need to include.
+- postman require token for secure url/api get to know about this after little searching.
+  
 #### Chi accumulation over time (0-100)
 **0.4**
