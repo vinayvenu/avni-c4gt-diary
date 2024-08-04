@@ -90,6 +90,26 @@ This week I started creating the API to automate the creation of questions in Me
 - I figured out that the API response isn't the expected one each time
 - Couldnt complete the code, the perfect working code is yet to be written!
 
+### Week 7 (23/07/2024 - 29/07/2024)
+Questions creation has been automated successfully finally(for "subject types" + "Address" currently)!
+
+#### New moves learnt
+- TimeUnit
+  
+#### Challenges, victories and defeats
+- I was not able to find out why sending a POST req from POSTMAN yields the correct response but doing the same from code didnt yield the same expected output.
+- Finally after investing a lot of time I realized database sync needs to complete before info related to it can be extracted.
+- Therefore I implemented code to wait for sync to complete
+
+### Week 8 (30/07/2024 - 05/08/2024) -->To be updated on 05 Aug
+
+#### New moves learnt
+- 
+  
+#### Challenges, victories and defeats
+- 
+- 
+- 
 
 
 
