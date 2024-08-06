@@ -74,6 +74,25 @@ Structure the output of response which is shown to user through web. imporve cod
 #### Challenges, victories and defeats
 - structure of output is initially difficult as form name with it's directory need to include.
 - postman require token for secure url/api get to know about this after little searching.
+
+### Week 7 (23/07/2024 - 29/07/2024)
+This week went on code refractoring and code smell.
+
+#### New moves learnt
+- learn about code refractoring for such a large code base.
+- code smell.
   
+#### Challenges, victories and defeats
+- while doing refractoring get lot of error then able to solve correctly.
+  
+### Week 8 (30/07/2024 - 05/08/2024)
+This week is not about researching for web i.e showing output on UI.
+
+#### New moves learnt
+- Get to know about how server and web connect through network.
+
+#### Challenges, victories and defeats
+   N.A
+
 #### Chi accumulation over time (0-100)
 **0.4**
