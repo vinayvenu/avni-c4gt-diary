@@ -101,15 +101,15 @@ Questions creation has been automated successfully finally(for "subject types" +
 - Finally after investing a lot of time I realized database sync needs to complete before info related to it can be extracted.
 - Therefore I implemented code to wait for sync to complete
 
-### Week 8 (30/07/2024 - 05/08/2024) -->To be updated on 05 Aug
+### Week 8 (30/07/2024 - 05/08/2024)
+Questions creation has been automated successfully finally(for "Programs" + "Address", "Program Encounters" + "Address" currently)!
 
 #### New moves learnt
-- 
+- PostConstruct
   
 #### Challenges, victories and defeats
-- 
-- 
-- 
+- Successfully used the fucntions and APIs created in last week to proceed ahead!
+
 
 
 
