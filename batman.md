@@ -110,6 +110,14 @@ Questions creation has been automated successfully finally(for "Programs" + "Add
 #### Challenges, victories and defeats
 - Successfully used the fucntions and APIs created in last week to proceed ahead!
 
+### Week 9 (06/08/2024 - 12/08/2024)
+Questions creation has been automated for "Address" , "Media" and "Sync Telemetry" Tables!
+
+#### New moves learnt
+- 
+  
+#### Challenges, victories and defeats
+- Created some new functions to cover up the cases for individual tables!
 
 
 
