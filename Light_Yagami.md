@@ -86,7 +86,7 @@ This week went on code refractoring and code smell.
 - while doing refractoring get lot of error then able to solve correctly.
   
 ### Week 8 (30/07/2024 - 05/08/2024)
-This week is not about researching for web i.e showing output on UI.
+This week is all about researching for web i.e showing output on UI.
 
 #### New moves learnt
 - Get to know about how server and web connect through network.
