@@ -91,6 +91,16 @@ This week is all about researching for web i.e showing output on UI.
 #### New moves learnt
 - Get to know about how server and web connect through network.
 
+### Week 9 (06/08/2024 - 12/08/2024)
+Updation of server code for MetadataDifference and structure of output.
+
+#### New moves learnt
+- how to write efficient and optimize code for multi user system.
+- structure of output.
+
+  #### New moves learnt
+- how to compare the nested object json form.
+
 #### Challenges, victories and defeats
    N.A
 
