@@ -118,6 +118,25 @@ Questions creation has been automated for "Address" , "Media" and "Sync Telemetr
   
 #### Challenges, victories and defeats
 - Created some new functions to cover up the cases for individual tables!
+  
+### Week 10 (13/08/2024 - 19/08/2024)
+Tried to analyze the API request body which is sent for building reports!
+On the evening of the last date of this week I got a review for my previous commits!! 
+#### New moves learnt
+- 
+  
+#### Challenges, victories and defeats
+- The request body so large , I realized many things need to be generalized !
+- Couldn't really complete the process of analysis and plan on how to do this!
+  
+### Week 11 (20/08/2024 - 26/08/2024)
+I am fixing my code according to the comments made last week!
+
+#### New moves learnt
+- 
+  
+#### Challenges, victories and defeats
+- 
 
 
 
