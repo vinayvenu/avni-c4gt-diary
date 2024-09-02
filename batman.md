@@ -136,7 +136,17 @@ I am fixing my code according to the comments made last week!
 - 
   
 #### Challenges, victories and defeats
+- Fixed  a lot of code
+- Couldnt completely fix all of it!
+
+ ### Week 12 (27/08/2024 - 02/09/2024)
+Added proper classes ,so that we return proper objects
+
+#### New moves learnt
 - 
+  
+#### Challenges, victories and defeats
+- Done with code fixing 
 
 
 
