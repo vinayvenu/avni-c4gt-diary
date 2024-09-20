@@ -98,11 +98,36 @@ Updation of server code for MetadataDifference and structure of output.
 - how to write efficient and optimize code for multi user system.
 - structure of output.
 
-  #### New moves learnt
+#### New moves learnt
 - how to compare the nested object json form.
 
+### Week 10 (13/08/2024 - 19/08/2024)
+ Started working on UI for showing response.
+ 
+#### New moves learnt
+- Data in UI is shown based on color.
+- Red for removed, green for addition, orange for modified.
+  
 #### Challenges, victories and defeats
-   N.A
+I faced only challenge as backend controller is preAuthorize to user and login through user which I get to know later.
 
+### Week 11 (20/08/2024 - 26/08/2024)
+This week is mostly about refractoring of code making it more optiminal.
+
+#### New moves learnt
+- Optimization of code great thing I learned.
+
+#### Challenges, victories and defeats
+N.A
+
+### Week 12 (27/08/2024 - 02/09/2024)
+Update code according to comments.
+
+#### New moves learnt
+- Distribute code in micro services.
+
+#### Challenges, victories and defeats
+- distruction of code based on services is new thing I learned.
+- 
 #### Chi accumulation over time (0-100)
-**0.4**
+**40**
